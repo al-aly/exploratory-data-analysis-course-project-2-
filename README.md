@@ -15,3 +15,12 @@ You must address the following questions and tasks in your exploratory analysis.
 5. How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (𝚏𝚒𝚙𝚜 == "𝟶𝟼𝟶𝟹𝟽"). Which city has seen greater changes over time in motor vehicle emissions?
+
+
+
+For each plot you should
+
+- Construct the plot and save it to a PNG file.
+- Create a separate R code file (𝚙𝚕𝚘𝚝𝟷.𝚁, 𝚙𝚕𝚘𝚝𝟸.𝚁, etc.) that constructs the corresponding plot, i.e. code in plot1.R constructs the plot1.png plot. Your code file should include code for reading the data so that the plot can be fully reproduced. You must also include the code that creates the PNG file. Only include the code for a single plot (i.e. 𝚙𝚕𝚘𝚝𝟷.𝚁 should only include code for producing 𝚙𝚕𝚘𝚝𝟷.𝚙𝚗𝚐)
+- Upload the PNG file on the Assignment submission page
+- Copy and paste the R code from the corresponding R file into the text box at the appropriate point in the peer assessment.
